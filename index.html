@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;700&family=Tiro+Gurmukhi&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <title>Calculadora IMC</title>
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <div>
+                <h1 id="text-import">Calculadora de IMC</h1>
+                <figure>
+                    <img src="./img/imc.png" alt="imagem sobre IMC" style="width: 100%;">
+                    <figcaption id="text-imc">
+                        <b>essa e a imagem sobre o IMC</b>
+                    </figcaption>
+                </figure>
+            </div>
+        </header>
+
+
+        <main>
+            <div id="input-number">
+
+
+                <input type="number" id="input-peso" placeholder="Seu Peso aqui (KG) ">
+
+
+
+                <input type="number" id="input-altura" placeholder="Sua altura aqui (CM)">
+
+
+                <button onclick="calcImc()" id="btn" class="button button-principal"> Clique aqui </button>
+
+        </main>
+
+        <footer>
+            <div class="text-area">
+                <textarea name="text" id="textarea"  rows="10"></textarea>
+            </div>
+        </footer>
+
+    </div>
+    <script src="scripts.js"></script>
+</body>
+
+</html>
