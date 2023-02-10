@@ -10,7 +10,6 @@
 ## Photo 🎴
    <div align='center' >
    
-   <img src="./img/Calculadora imc.JPG">
    <img src="./img/gif Calculadora.gif">
  
    </div>
@@ -43,11 +42,16 @@
    
    <h3 align="center"> Technologies used in the project 🙃 </h3>
    
-   <img src='./src/assets/computer1.gif' alt='gif-de-computador' align='right' width='20%'/>
+   <img src='./img/computer1.gif' alt='gif-de-computador' align='right' width='20%'/>
+<br>
 
 - [HTML](https://www.w3schools.com/html/)
 - [CSS](https://www.w3schools.com/css/)
 - [JavaScript](https://www.javascript.com/)
+
+<br>
+<br>
+
    
 ## Author 🙋🏾‍♂️
    <p> Hello, my name is João. <br> Follow me on <a href="https://www.linkedin.com/in/joaosoaressilva/" target="_blank">Linkedin</a> to see more about the projects I post.!</p>
