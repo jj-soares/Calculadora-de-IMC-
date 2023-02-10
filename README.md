@@ -1,49 +1,53 @@
 <h1 align="center">
-  ⚖ CALCULADORA DE IMC ⚖
+  ⚖ BMI CALCULATOR ⚖
 </h1>
 
 <h4 align="center">
-  💻 Calculadora de IMC, que faz o cálculo de massa muscular e informa qual a sua atual condição fisica!
+  💻 BMI Calculator, which calculates muscle mass and informs you of your current physical condition!
 </h4>
 
-<p align="center">   
-   <a href="#sobre">Sobre</a> .
-   <a href="#roadmap">Roadmap</a> .
-   <a href="#tecnologias">Tecnologias</a> .
-   <a href="#fotos">Fotos</a> . 
-   <a href="#autor">Autor</a>
- </p>
 
-
-   
- # Sobre 
-     
-     
-   <p> Essa é a calculadora de IMC (Indice de Massa Corporal), que faz a soma do seu peso e da sua altura e te mostra qual e a atual 
-   condição física do seu corpo, se esta acima do peso ou não.</p>
-   
-   
-   
-   
-   
-   # Roadmap 
-   
-   <p> Quando resolvi fazer essa calculadora estava com o pensamento na minha condição físisca
-   pensava muito que estava acima do peso e que estava com problemas de gordura. E resolvi praticar um pouco mais 
-   do que estou estudando entao fiz a calculadora para poder acessar mais fácil informações sobre minha condição física! </p>
-   
-   
-   # Tecnologias 
-   <h3 align="center"> Tecnolgias usadas no projeto </h3>
-  <p>HTML</p>
-  <p>CSS</p>
-  <p>Java Script</p>
-   
-   
-   # Fotos 
+## Photo 🎴
+   <div align='center' >
    
    <img src="./img/Calculadora imc.JPG">
    <img src="./img/gif Calculadora.gif">
+ 
+   </div>
    
-   # Autor 
-   <p>Ola, meu nome e Joao. <br> Me siga no <a href="https://www.linkedin.com/in/jo%C3%A3o-soares13/" target="_blank">Linkedin</a> para ver mais sobre os projeos que posto.!</p>
+<p align="center">   
+   <a href="#On">On</a> .
+   <a href="#Roadmap">Roadmap</a> .
+   <a href="#Technologies">Technologies</a> .
+   <a href="#Photo">Photo</a> . 
+   <a href="#Author">Author</a> 
+   
+ </p>
+
+   
+## On ✔
+     
+     
+   <p>This is the BMI (Body Mass Index) calculator, which adds up your weight and your height and shows you which is the current
+   physical condition of your body, whether you are overweight or not.</p>
+   
+   
+## Roadmap 🗺
+   
+   <p> When I decided to make this calculator I was thinking about my physical condition
+   I thought a lot that I was overweight and that I had fat problems. And I decided to practice a little more
+   what I'm studying so I made the calculator to be able to access information about my physical condition more easily! </p>
+   
+   
+## Technologies 🚀
+   
+   <h3 align="center"> Technologies used in the project 🙃 </h3>
+   
+   <img src='./src/assets/computer1.gif' alt='gif-de-computador' align='right' width='20%'/>
+
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://www.w3schools.com/css/)
+- [JavaScript](https://www.javascript.com/)
+   
+## Author 🙋🏾‍♂️
+   <p> Hello, my name is João. <br> Follow me on <a href="https://www.linkedin.com/in/joaosoaressilva/" target="_blank">Linkedin</a> to see more about the projects I post.!</p>
